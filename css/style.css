@@ -1,0 +1,27 @@
+/* font-family: "Raleway", sans-serif;
+font-family: "Roboto", sans-serif; */
+
+/* 
+#212121
+#757575
+#FFFFFF
+#2196F3
+#000000
+#2F303A
+#FFFFFF
+60 %
+#ECECEC
+#F5F4FA */
+
+body {
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 1.71;
+  /* or 171% */
+
+  letter-spacing: 0.03em;
+
+  color: #212121;
+}
