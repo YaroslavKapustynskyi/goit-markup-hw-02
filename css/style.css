@@ -24,4 +24,59 @@ body {
   letter-spacing: 0.03em;
 
   color: #212121;
+  background-color: white;
+}
+/* Хедер */
+
+.header-main {
+  background-color: white;
+  width: 1600px;
+  height: 80px;
+}
+.header-link {
+  position: absolute;
+  width: 145px;
+  height: 31px;
+  left: 215px;
+  top: 24px;
+
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 26px;
+  line-height: 31px;
+  /* identical to box height */
+
+  letter-spacing: 0.03em;
+
+  color: #2196f3;
+
+  text-decoration: none;
+}
+/*Навигшация*/
+.nav-item {
+  text-decoration: none;
+  color: #212121;
+}
+.nav-link {
+  text-decoration: none;
+  color: #212121;
+}
+.nav-link:hover {
+  color: #2196f3;
+}
+/*Contacts*/
+.contact-list > a {
+  text-decoration: none;
+  color: #212121;
+}
+.contact-list > a:hover {
+  color: #2196f3;
+}
+
+.title {
+  background-color: #2f303a;
+  width: 1600px;
+  height: 600px;
+  color: white;
 }
